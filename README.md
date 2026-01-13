@@ -19,6 +19,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
+| [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,8 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
 <!---LeetCode Topics End-->
