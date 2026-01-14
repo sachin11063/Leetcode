@@ -20,6 +20,7 @@ This is for testing purposes.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
 | [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,4 +41,13 @@ This is for testing purposes.
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
