@@ -19,6 +19,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
@@ -50,4 +51,8 @@ This is for testing purposes.
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
+## Sorting
+|  |
+| ------- |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 <!---LeetCode Topics End-->
