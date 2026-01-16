@@ -20,6 +20,7 @@ This is for testing purposes.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
 ## Dynamic Programming
@@ -59,4 +60,12 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sachin11063/Leetcode/tree/master/0008-string-to-integer-atoi) |
+## Hash Table
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+## Enumeration
+|  |
+| ------- |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
