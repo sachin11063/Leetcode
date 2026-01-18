@@ -20,6 +20,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin11063/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -37,6 +38,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -74,4 +76,8 @@ This is for testing purposes.
 |  |
 | ------- |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin11063/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Prefix Sum
+|  |
+| ------- |
+| [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 <!---LeetCode Topics End-->
