@@ -30,10 +30,12 @@ This is for testing purposes.
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sachin11063/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +46,7 @@ This is for testing purposes.
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sachin11063/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
 | ------- |
