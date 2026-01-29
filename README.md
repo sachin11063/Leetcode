@@ -26,6 +26,7 @@ This is for testing purposes.
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin11063/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sachin11063/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
@@ -74,6 +75,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sachin11063/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +93,12 @@ This is for testing purposes.
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sachin11063/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
+## Graph Theory
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
