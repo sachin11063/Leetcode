@@ -38,6 +38,7 @@ This is for testing purposes.
 | [3637-trionic-array-i](https://github.com/sachin11063/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/sachin11063/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
 | ------- |
@@ -90,6 +92,7 @@ This is for testing purposes.
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sachin11063/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -104,6 +107,7 @@ This is for testing purposes.
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sachin11063/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
+| [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -124,4 +128,8 @@ This is for testing purposes.
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/sachin11063/Leetcode/tree/master/3379-transformed-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
