@@ -7,6 +7,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sachin11063/Leetcode/tree/master/0231-power-of-two) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachin11063/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin11063/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Bit Manipulation
 |  |
@@ -14,6 +15,7 @@ This is for testing purposes.
 | [0231-power-of-two](https://github.com/sachin11063/Leetcode/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/sachin11063/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sachin11063/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachin11063/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sachin11063/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Recursion
 |  |
