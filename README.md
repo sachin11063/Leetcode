@@ -36,6 +36,7 @@ This is for testing purposes.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sachin11063/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sachin11063/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
+| [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -102,10 +103,12 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sachin11063/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sachin11063/Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sachin11063/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -153,6 +156,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/sachin11063/Leetcode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Tree
 |  |
 | ------- |
