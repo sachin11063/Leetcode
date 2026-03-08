@@ -55,6 +55,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sachin11063/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3640-trionic-array-ii](https://github.com/sachin11063/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
@@ -103,6 +104,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/sachin11063/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sachin11063/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -138,6 +140,7 @@ This is for testing purposes.
 ## Sliding Window
 |  |
 | ------- |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sachin11063/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sachin11063/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
