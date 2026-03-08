@@ -17,6 +17,7 @@ This is for testing purposes.
 | [0401-binary-watch](https://github.com/sachin11063/Leetcode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sachin11063/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sachin11063/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sachin11063/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sachin11063/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin11063/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sachin11063/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -29,6 +30,7 @@ This is for testing purposes.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sachin11063/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/sachin11063/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/sachin11063/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sachin11063/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sachin11063/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
