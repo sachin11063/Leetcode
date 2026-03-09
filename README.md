@@ -58,6 +58,7 @@ This is for testing purposes.
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sachin11063/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sachin11063/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sachin11063/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3640-trionic-array-ii](https://github.com/sachin11063/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Stack
@@ -130,6 +131,7 @@ This is for testing purposes.
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sachin11063/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sachin11063/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph Theory
 |  |
