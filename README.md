@@ -48,6 +48,7 @@ This is for testing purposes.
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin11063/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sachin11063/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/sachin11063/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sachin11063/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin11063/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sachin11063/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/sachin11063/Leetcode/tree/master/3379-transformed-array) |
@@ -79,6 +80,7 @@ This is for testing purposes.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sachin11063/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sachin11063/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
@@ -139,6 +141,7 @@ This is for testing purposes.
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sachin11063/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sachin11063/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sachin11063/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Graph Theory
 |  |
