@@ -54,6 +54,7 @@ This is for testing purposes.
 | [3379-transformed-array](https://github.com/sachin11063/Leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/sachin11063/Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/sachin11063/Leetcode/tree/master/3454-separate-squares-ii) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sachin11063/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3637-trionic-array-i](https://github.com/sachin11063/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/sachin11063/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -81,6 +82,7 @@ This is for testing purposes.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sachin11063/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sachin11063/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Monotonic Stack
 |  |
@@ -112,6 +114,7 @@ This is for testing purposes.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sachin11063/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sachin11063/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String
 |  |
 | ------- |
