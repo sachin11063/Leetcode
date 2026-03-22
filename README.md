@@ -40,6 +40,7 @@ This is for testing purposes.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sachin11063/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sachin11063/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sachin11063/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -81,6 +82,7 @@ This is for testing purposes.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sachin11063/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sachin11063/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sachin11063/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/sachin11063/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sachin11063/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
