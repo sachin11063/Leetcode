@@ -68,6 +68,7 @@ This is for testing purposes.
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sachin11063/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sachin11063/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sachin11063/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This is for testing purposes.
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sachin11063/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sachin11063/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sachin11063/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Enumeration
 |  |
 | ------- |
