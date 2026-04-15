@@ -44,6 +44,7 @@ This is for testing purposes.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sachin11063/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
 | [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sachin11063/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/sachin11063/Leetcode/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sachin11063/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -139,6 +140,7 @@ This is for testing purposes.
 | [0008-string-to-integer-atoi](https://github.com/sachin11063/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sachin11063/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sachin11063/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sachin11063/Leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
