@@ -71,6 +71,7 @@ This is for testing purposes.
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/sachin11063/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/sachin11063/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sachin11063/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/sachin11063/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This is for testing purposes.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sachin11063/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/sachin11063/Leetcode/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/sachin11063/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +105,7 @@ This is for testing purposes.
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sachin11063/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sachin11063/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/sachin11063/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/sachin11063/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
