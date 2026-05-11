@@ -46,6 +46,7 @@ This is for testing purposes.
 | [1980-find-unique-binary-string](https://github.com/sachin11063/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sachin11063/Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sachin11063/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sachin11063/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/sachin11063/Leetcode/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sachin11063/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -197,6 +198,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sachin11063/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sachin11063/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/sachin11063/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sachin11063/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/sachin11063/Leetcode/tree/master/3379-transformed-array) |
