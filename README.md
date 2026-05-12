@@ -40,6 +40,7 @@ This is for testing purposes.
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sachin11063/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sachin11063/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sachin11063/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sachin11063/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sachin11063/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/sachin11063/Leetcode/tree/master/1895-largest-magic-square) |
@@ -134,6 +135,7 @@ This is for testing purposes.
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/sachin11063/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sachin11063/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sachin11063/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2751-robot-collisions](https://github.com/sachin11063/Leetcode/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sachin11063/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -234,6 +236,7 @@ This is for testing purposes.
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sachin11063/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sachin11063/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sachin11063/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sachin11063/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Two Pointers
